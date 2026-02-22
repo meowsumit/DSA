@@ -8,4 +8,3 @@ nums = [1, 2, 3, 4, 5]
 obj = Solution()
 result = obj.isSorted(nums)
 print(f"Is the array sorted ? {result}")
-        
